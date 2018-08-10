@@ -11,4 +11,6 @@ python detect.py
 ```
 默认batch_size=1, 输入`imgs/`中图片, 检测结果保存在 `det/`目录下
 
-示例输出: ![](002/det/det_dog.jpg)
+示例输出: 
+
+![](002/det/det_dog.jpg)
